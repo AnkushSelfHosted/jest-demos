@@ -13,3 +13,4 @@ preRun:
   command:
     - npm i
 parallelism: 3
+splitmode: file
