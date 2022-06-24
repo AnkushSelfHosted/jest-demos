@@ -14,3 +14,4 @@ preRun:
     - npm i
 parallelism: 3
 splitmode: file
+#testSplit
