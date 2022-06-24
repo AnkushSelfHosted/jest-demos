@@ -14,7 +14,7 @@ it('test forEach function', () => {
   expect(mockCallback.mock.calls[1][0]).toBe(1)
 
   // The return value of the first call to the function was 42
-  expect(mockCallback.mock.results[0].value).toBe(42)
+  expect(mockCallback.mock.results[0].value).toBe(44)
 
   // use matchers
   expect(mockCallback).toBeCalled()
