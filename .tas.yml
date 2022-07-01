@@ -12,6 +12,6 @@ preMerge:
 preRun: 
   command:
     - npm i
-    #testpost1
+    #testpost2
 parallelism: 4
 splitmode: file
