@@ -13,5 +13,4 @@ preRun:
   command:
     - npm i
     #testpost2
-parallelism: 4
-splitmode: file
+
